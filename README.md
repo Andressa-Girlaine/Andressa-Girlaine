@@ -1,7 +1,6 @@
 ### Óla eu sou Andressa Girlaine F. de Lima 👋
 Veja-me sem seus rótulos 💜
 
-
 [![Social Media](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andressalima_90/?igsh=bWlneDFwcGc4ZG12)
 
 [![Social Media](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-lima-88b658185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
