@@ -8,7 +8,9 @@ Veja-me sem seus rótulos 💜
 
 ![Andressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressa-girlaine&show_icons=true&theme=radical)
 
-### Tecnologias 🚀👩🏽‍💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-girlaine&langs_count=8)
+
+## Tecnologias 🚀👩🏽‍💻
 
 <div styLe = "display: inline_block">
   <br>
