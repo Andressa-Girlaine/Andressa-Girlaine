@@ -5,6 +5,8 @@ Veja-me sem seus rótulos 💜
 
 [![Social Media](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-lima-88b658185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://andressa-girlaine.github.io/Portf-lio/)
+
 ![Andressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressa-girlaine&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-girlaine&langs_count=8)
